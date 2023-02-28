@@ -12,4 +12,4 @@ def duplicar(valores):
     ...
     TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
     """
-    pass
+    pass  # Isso é TDD, criamos priemiro o teste e não inciamos a codificação
