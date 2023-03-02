@@ -1,0 +1,1 @@
+Este é um arquivo que deverá ser deletado ao final da execução dos testes
